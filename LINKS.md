@@ -5,7 +5,7 @@ Links on usage of crypto (in german order; hopefully)
 ## Documentation
 
  * [KeePassXC: User Guide](https://keepassxc.org/docs/KeePassXC_UserGuide.html)
- * [zuluCrypt](https://wiki.ubuntuusers.de/zuluCrypt/](zuluCrypt) - German
+ * [zuluCrypt](https://wiki.ubuntuusers.de/zuluCrypt/]) - German
 
 ## Hardware
 
