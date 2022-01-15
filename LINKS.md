@@ -15,7 +15,7 @@ Links on usage of crypto (in german order; hopefully)
 ## Software
 
  * [LibreCrypt](https://librecrypt.tdksoft.co.uk/) - Not up to date with bugs but a solution to mount dmcrypt encrypted storage on Window
- * [VeraCrypt](https://www.veracrypt.fr/en/Home.html](VeryCrypt)
- * [zuluCrypt](https://mhogomchungu.github.io/zuluCrypt/](zuluCrypt)
+ * [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
+ * [zuluCrypt](https://mhogomchungu.github.io/zuluCrypt/)
 
 
