@@ -1,6 +1,6 @@
 # Links
 
-Links on usage of crypto (in german order; hopefully)
+Links on usage of crypto (in alphabetical order; hopefully)
 
 ## Documentation
 
